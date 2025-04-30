@@ -28,6 +28,7 @@
 
 - [Adam Johnston](https://github.com/uxillary) **Scottish Contribution - Freedom!!**
 - [Isaac Schwarz](https://github.com/shantz14) **Lets get it gamers**
+- [AJ Mastrangelo](https://github.com/ajmastra) **Wooo lets go!**
 - [Aviraj Saha] (https://github.com/avirsaha) **I love open-source.**
 - [Tasneem Manga](https://github.com/TasneemHannahManga) **Contributed**
 - [Shayna Segal] (https://github.com/ShaynaSegal45) **OPEN SOURCE IS THE BEST!**
